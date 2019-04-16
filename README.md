@@ -1,2 +1,2 @@
 # ProjectZero
-Project0_BankingAPp
+Project0_BankingApp
